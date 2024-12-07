@@ -8,7 +8,7 @@ Ini pelatihan GitHub pertemuan kedua tentang GitHub
 
 [Tata Surya](https://solarsystem.nasa.gov/)
 
-![Galaksi Bima Sakti](https://example.com/images/milky-way-galaxy.jpg)
+![Langit malam](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuX0K4me5zSeJT3Z_vMIb7GDLJjqlqxaanRA&s)
 
 | Planet | Diameter | Jumlah Satelit |
 | ------- | -------- | -------------- |
